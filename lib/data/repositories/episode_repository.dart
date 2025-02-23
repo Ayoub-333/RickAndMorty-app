@@ -1,5 +1,5 @@
-import 'package:learn_bloc/data/datasources/episode_api.dart';
-import 'package:learn_bloc/data/models/episode_model.dart';
+import 'package:rick_and_morty_app/data/datasources/episode_api.dart';
+import 'package:rick_and_morty_app/data/models/episode_model.dart';
 
 class EpisodeRepository {
   final EpisodeApi episodeApi;
@@ -27,4 +27,3 @@ class EpisodeRepository {
 //     print("Error fetching characters: $e");
 //   }
 // }
-

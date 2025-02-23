@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:learn_bloc/constants/colors.dart';
-import 'package:learn_bloc/data/models/character_model.dart';
-import 'package:learn_bloc/data/models/episode_model.dart';
+import 'package:rick_and_morty_app/constants/colors.dart';
+import 'package:rick_and_morty_app/data/models/character_model.dart';
+import 'package:rick_and_morty_app/data/models/episode_model.dart';
 
 class CharacterDetailsScreen extends StatefulWidget {
   final Character character;

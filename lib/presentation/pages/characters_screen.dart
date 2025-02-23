@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:learn_bloc/constants/colors.dart';
-import 'package:learn_bloc/data/models/character_model.dart';
-import 'package:learn_bloc/domain/cubit/character_cubit.dart';
-import 'package:learn_bloc/presentation/widgets/character_item.dart';
+import 'package:rick_and_morty_app/constants/colors.dart';
+import 'package:rick_and_morty_app/data/models/character_model.dart';
+import 'package:rick_and_morty_app/domain/cubit/character_cubit.dart';
+import 'package:rick_and_morty_app/presentation/widgets/character_item.dart';
 
 class CharactersScreen extends StatefulWidget {
   const CharactersScreen({super.key});

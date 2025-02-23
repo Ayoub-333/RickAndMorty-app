@@ -1,5 +1,5 @@
-import 'package:learn_bloc/data/datasources/character_api.dart';
-import 'package:learn_bloc/data/models/character_model.dart';
+import 'package:rick_and_morty_app/data/datasources/character_api.dart';
+import 'package:rick_and_morty_app/data/models/character_model.dart';
 
 class CharacterRepository {
   final CharacterApi characterApi;

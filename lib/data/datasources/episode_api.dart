@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:learn_bloc/constants/strings.dart';
+import 'package:rick_and_morty_app/constants/strings.dart';
 
 class EpisodeApi {
   late Dio dio;

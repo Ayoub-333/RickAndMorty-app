@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:learn_bloc/app_router.dart';
+import 'package:rick_and_morty_app/app_router.dart';
 
 void main() {
   runApp(LearnBlocApp(appRouter: AppRouter()));

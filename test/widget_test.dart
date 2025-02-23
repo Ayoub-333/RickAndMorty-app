@@ -7,9 +7,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:learn_bloc/app_router.dart';
+import 'package:rick_and_morty_app/app_router.dart';
 
-import 'package:learn_bloc/main.dart';
+import 'package:rick_and_morty_app/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
