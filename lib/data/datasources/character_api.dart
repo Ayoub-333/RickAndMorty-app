@@ -25,10 +25,3 @@ class CharacterApi {
     }
   }
 }
-
-void main() {
-  final characterApi = CharacterApi();
-  characterApi.getAllCharacters().then((characters) {
-    print(characters);
-  });
-}
